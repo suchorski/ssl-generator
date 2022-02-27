@@ -6,7 +6,7 @@ Use this to generate your SSL files for Java Spring
 
 ### Follow these steps to generate your certificate
 
-* Clone this repository: `git clone ...`
+* Clone this repository: `git clone https://github.com/suchorski/ssl-generator`
 * Go inside it: `cd ssl-generator`
 * Build with Maven: `mvn package`
 * Go inside target folder: `cd target`
